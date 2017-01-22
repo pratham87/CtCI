@@ -1,4 +1,4 @@
-package arraysAndStrings;
+package arraysAndStrings.Q1;
 
 public class FindUniqueCharacterStringUsing2Pointer {
 
