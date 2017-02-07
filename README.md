@@ -2,7 +2,7 @@
 
 ## Ch 1. Arrays and Strings
 
-* ###### [Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?](https://github.com/pratham87/CtCI/tree/master/src/main/java/arraysAndStrings/Q1) 
+1. [Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?](https://github.com/pratham87/CtCI/tree/master/src/main/java/arraysAndStrings/Q1) 
 
 * ###### Write code to reverse a C-Style String. (C-String means that “abcd” is represented as  ve characters, including the null character.)
 
