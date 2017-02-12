@@ -26,10 +26,10 @@
 
 ## Ch 3. Stacks and Queues
 
-* ###### Describe how you could use a single array to implement three stacks.
+1. Describe how you could use a single array to implement three stacks.
 
-* ###### How would you design a stack which, in addition to push and pop, also has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.
+2. How would you design a stack which, in addition to push and pop, also has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.
 
-* ###### Implement a MyQueue class which implements a queue using two stacks.
+3. Implement a MyQueue class which implements a queue using two stacks.
 
-* ###### Write a program to sort a stack in ascending order. You should not make any assump- tions about how the stack is implemented. The following are the only functions that should be used to write this program: push | pop | peek | isEmpty.
+4. Write a program to sort a stack in ascending order. You should not make any assump- tions about how the stack is implemented. The following are the only functions that should be used to write this program: push | pop | peek | isEmpty.
