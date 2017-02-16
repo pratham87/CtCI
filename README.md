@@ -33,3 +33,9 @@
 3. Implement a MyQueue class which implements a queue using two stacks.
 
 4. Write a program to sort a stack in ascending order. You should not make any assump- tions about how the stack is implemented. The following are the only functions that should be used to write this program: push | pop | peek | isEmpty.
+
+## Ch 4. Trees and Graphs
+
+1. Implement a function to check if a tree is balanced. For the purposes of this question, a balanced tree is de ned to be a tree such that no two leaf nodes di er in distance from the root by more than one.
+
+2. Given a directed graph, design an algorithm to  nd out whether there is a route be- tween two nodes.
