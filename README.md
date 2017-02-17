@@ -39,3 +39,9 @@
 1. Implement a function to check if a tree is balanced. For the purposes of this question, a balanced tree is de ned to be a tree such that no two leaf nodes di er in distance from the root by more than one.
 
 2. Given a directed graph, design an algorithm to  nd out whether there is a route be- tween two nodes.
+
+3. Given a sorted (increasing order) array, write an algorithm to create a binary tree with minimal height.
+
+4. Given a binary search tree, design an algorithm which creates a linked list of all the nodes at each depth (i.e., if you have a tree with depth D, you’ll have D linked lists).
+
+5. Write an algorithm to  nd the ‘next’ node (i.e., in-order successor) of a given node in a binary search tree where each node has a link to its parent.
