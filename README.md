@@ -51,3 +51,15 @@
 7. You have two very large binary trees: T1, with millions of nodes, and T2, with hun- dreds of nodes. Create an algorithm to decide if T2 is a subtree of T1.
 
 8. You are given a binary tree in which each node contains a value. Design an algorithm to print all paths which sum up to that value. Note that it can be any path in the tree - it does not have to start at the root.
+
+## Ch 4. Bit Manipulation
+
+1. You are given two 32-bit numbers, N and M, and two bit positions, i and j. Write a method to set all bits between i and j in N equal to M (e.g., M becomes a substring of N located at i and starting at j). EXAMPLE: Input: N = 10000000000, M = 10101, i = 2, j = 6, Output: N = 10001010100
+
+2. Given a (decimal - e.g. 3.72) number that is passed in as a string, print the binary rep- resentation. If the number can not be represented accurately in binary, print “ERROR”
+
+3. Given an integer, print the next smallest and next largest number that have the same number of 1 bits in their binary representation.
+
+4. Explain what the following code does: ((n & (n-1)) == 0).
+
+5. Write a function to determine the number of bits required to convert integer A to integer B. Input: 31, 14 Output: 2
