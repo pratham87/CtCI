@@ -63,3 +63,7 @@
 4. Explain what the following code does: ((n & (n-1)) == 0).
 
 5. Write a function to determine the number of bits required to convert integer A to integer B. Input: 31, 14 Output: 2
+
+6. Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, etc).
+
+7. An array A[1...n] contains all the integers from 0 to n except for one number which is missing. In this problem, we cannot access an entire integer in A with a single opera- tion. The elements of A are represented in binary, and the only operation we can use to access them is “fetch the jth bit of A[i]”, which takes constant time. Write code to  nd the missing integer. Can you do it in O(n) time?
