@@ -14,7 +14,7 @@
 
 ## Ch 2. Linked Lists
 
-1. Write code to remove duplicates from an unsorted linked list. FOLLOW UP: How would you solve this problem if a temporary bu er is not allowed? 
+1. [Write code to remove duplicates from an unsorted linked list. FOLLOW UP: How would you solve this problem if a temporary buffer is not allowed?](https://github.com/pratham87/CtCI/tree/master/src/main/java/linkedLists/Q1)
 
 2. Implement an algorithm to  nd the nth to last element of a singly linked list.
 
