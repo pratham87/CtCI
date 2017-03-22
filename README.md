@@ -28,7 +28,7 @@
 
 1. Describe how you could use a single array to implement three stacks.
 
-2. How would you design a stack which, in addition to push and pop, also has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.
+2. [How would you design a stack which, in addition to push and pop, also has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.](https://github.com/pratham87/CtCI/tree/master/src/main/java/stacksAndQueues/Q2)
 
 3. Implement a MyQueue class which implements a queue using two stacks.
 
