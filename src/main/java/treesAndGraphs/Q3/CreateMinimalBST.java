@@ -4,7 +4,7 @@ package treesAndGraphs.Q3;
  Algorithm:
  
  1. What is method suppose to do: Find data in array and create node. (Same functionality for all nodes).
- 2. Make call on another node with updates parameters and return the node. 
+ 2. Make call on another node with updated parameters and return the node. 
   
  */
 
