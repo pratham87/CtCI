@@ -1,13 +1,13 @@
 ## Ch 1. Arrays and Strings
 
-1. Is Unique: [Brute force][ASCII]
+1. Is Unique: [[**Brute force**](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q1/FindUniqueCharacterStringUsing2Pointer.java)][[**ASCII**](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q1/FindUniqueCharacterStringUsingASCIIcode.java)]
 2. Check Permutation
-3. URLify
+3. [URLify](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q3/ReplaceSpaces.java)
 4. Palindrome Permutation
 5. One Away
 6. String Compression
-7. Rotate Matrix
-8. Zero Matrix
+7. [Rotate Matrix](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/RotateMatrix.java)
+8. [Zero Matrix](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/ZeroRowColumn.java)
 9. String Rotation
 
 ## Ch 2. Linked Lists
