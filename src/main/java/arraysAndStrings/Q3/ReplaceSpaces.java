@@ -1,4 +1,8 @@
-package arraysAndStrings.Q5;
+package arraysAndStrings.Q3;
+
+/*
+ Question: Write a method to replace all spaces in a string with ‘%20’.
+*/
 
 public class ReplaceSpaces {
 

@@ -1,5 +1,9 @@
 package arraysAndStrings.Q1;
 
+/*
+ Questions: Implement an algorithm to determine if a string has all unique characters. 
+*/
+
 public class FindUniqueCharacterStringUsingASCIIcode {
 
 	public static boolean unique(String str) {
