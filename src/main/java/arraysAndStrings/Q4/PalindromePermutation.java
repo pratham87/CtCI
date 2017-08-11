@@ -3,9 +3,12 @@ package arraysAndStrings.Q4;
 /*
  Question: Check if a string is a permutation of a palindrome. 
  
- Algorithm: 
+ Algorithm 1: 
  1. Get the count of every char.
- 2. Filter the odd integers and if more than 1 return false.
+ 2. Filter the odd integers and if the count is more than 1, return false.
+ 
+ Algorithm 2: Check for odd occurrences as you parse the string. 
+ 
  */
 
 import java.util.HashMap;
