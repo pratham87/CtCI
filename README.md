@@ -1,7 +1,7 @@
 ## Ch 1. Arrays and Strings
 
 1. Is Unique: [[**Brute force**](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q1/FindUniqueCharacterStringUsing2Pointer.java)][[**ASCII**](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q1/FindUniqueCharacterStringUsingASCIIcode.java)]
-2. Check Permutation
+2. [Check Permutation](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q2/CheckPermutation.java)
 3. [URLify](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q3/ReplaceSpaces.java)
 4. Palindrome Permutation
 5. One Away
