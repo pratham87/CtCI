@@ -5,8 +5,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /*
- Question: There are 3 types of edit: insert, remove, replace.
- 	Given 2 strings, check if they are 1 edit away.
+ Question: There are 3 types of edit: insert, remove, replace. Given 2 strings, check if they are 1 edit away.
  	
  Algorithm:
  1. Use HashMap to get the count for all chars in the first string.
