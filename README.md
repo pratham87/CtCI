@@ -5,7 +5,7 @@
 3. [URLify](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q3/ReplaceSpaces.java)
 4. [Palindrome Permutation](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q4/PalindromePermutation.java)
 5. [One Away](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q5/OneEditAway.java)
-6. String Compression
+6. [String Compression](https://github.com/pratham87/CtCI/blob/master/src/main/java/arraysAndStrings/Q6/StringCompression.java)
 7. [Rotate Matrix](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/RotateMatrix.java)
 8. [Zero Matrix](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/ZeroRowColumn.java)
 9. String Rotation
