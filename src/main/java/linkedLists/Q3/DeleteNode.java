@@ -18,22 +18,14 @@ public class DeleteNode {
 			return;
 		}
 
-		for (int i = 0; i < 5; i++) {
-			if (temp != null && temp.next.data != node) {
+		while (temp.next != null) {
+			if (temp.next.data == node) {
+				temp.next = temp.next.next;
+				return;
+			} else {
 				temp = temp.next;
 			}
-
 		}
-
-		if (temp == null || temp.next == null) {
-			return;
-		}
-
-		// Node copy = temp.next.next;
-		// temp.next = copy;
-
-		temp.next = temp.next.next;
-
 	}
 
 	public void print() {
@@ -51,6 +43,9 @@ public class DeleteNode {
 		list.head.next.next = new Node("c");
 		list.head.next.next.next = new Node("d");
 		list.head.next.next.next.next = new Node("e");
+		list.head.next.next.next.next.next = new Node("f");
+		list.head.next.next.next.next.next.next = new Node("h");
+		list.head.next.next.next.next.next.next.next = new Node("j");
 
 		System.out.println("Before deleting the Node:");
 		list.print();
@@ -60,5 +55,4 @@ public class DeleteNode {
 		System.out.println("\n\nAfter deleting the Node:");
 		list.print();
 	}
-
 }
