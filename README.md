@@ -17,7 +17,7 @@
 3. [Delete Middle Node](https://github.com/pratham87/CtCI/blob/master/src/main/java/linkedLists/Q3/DeleteNode.java)
 4. Partition
 5. Sum Lists
-6. Palindrome
+6. [Palindrome](https://github.com/pratham87/CtCI/blob/master/src/main/java/linkedLists/Q6/Palindrome.java)
 7. Intersection
 8. [Loop Detection](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/linkedList/DetectLoopInSinglyList.java)
 
