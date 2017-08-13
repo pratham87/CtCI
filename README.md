@@ -32,6 +32,15 @@
 
 ## Ch 4. Trees and Graphs
 
-1. [Minimal Tree](https://github.com/pratham87/CtCI/tree/master/src/main/java/treesAndGraphs/Q3)
-
-
+1. Route between nodes
+2. [Minimal Tree](https://github.com/pratham87/CtCI/tree/master/src/main/java/treesAndGraphs/Q3)
+3. List of Depths
+4. Check Balanced
+5. Validate BST
+6. Successor
+7. Build order
+8. First Common Ancestor
+9. BST Sequences
+10. Check Subtree
+11. Random Node
+12. Paths with Sum
