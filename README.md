@@ -23,7 +23,7 @@
 
 ## Ch 3. Stacks and Queues
 
-1. Three in One
+1. [Three in One](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/stackProbs/ThreeStacksInOneArray.java)
 2. [Stack Min](https://github.com/pratham87/CtCI/tree/master/src/main/java/stacksAndQueues/Q2)
 3. Stack of Plates
 4. Queue via Stacks
