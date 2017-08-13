@@ -36,10 +36,10 @@
 2. [Minimal Tree](https://github.com/pratham87/CtCI/tree/master/src/main/java/treesAndGraphs/Q3)
 3. List of Depths
 4. Check Balanced
-5. Validate BST
+5. [Validate BST](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/binaryTree/CheckBinaryTreeForBST.java)
 6. Successor
 7. Build order
-8. First Common Ancestor
+8. [First Common Ancestor](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/binaryTree/LCA.java)
 9. BST Sequences
 10. Check Subtree
 11. Random Node
