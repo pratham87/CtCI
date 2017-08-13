@@ -27,7 +27,7 @@
 2. [Stack Min](https://github.com/pratham87/CtCI/tree/master/src/main/java/stacksAndQueues/Q2)
 3. Stack of Plates
 4. Queue via Stacks
-5. Sort Stack
+5. [Sort Stack](https://github.com/pratham87/CtCI/blob/master/src/main/java/stacksAndQueues/Q5/SortStack.java)
 6. Animal Shelter
 
 ## Ch 4. Trees and Graphs
