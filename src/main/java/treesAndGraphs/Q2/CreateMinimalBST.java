@@ -1,4 +1,4 @@
-package treesAndGraphs.Q3;
+package treesAndGraphs.Q2;
 
 /*
  Algorithm:

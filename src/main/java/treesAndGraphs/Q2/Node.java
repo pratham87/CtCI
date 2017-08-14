@@ -1,8 +1,8 @@
-package treesAndGraphs.Q3;
+package treesAndGraphs.Q2;
 
 public class Node {
-	int key;
-	Node left, right;
+	public int key;
+	public Node left, right;
 
 	public Node(int key) {
 		this.key = key;
