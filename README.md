@@ -47,7 +47,7 @@
 
 ## Ch 10. Sorting and Searching
 
-1. Sorted Merge
+1. [Sorted Merge](https://github.com/pratham87/CtCI/blob/master/src/main/java/sortAndSearch/Q1/SortedMerge.java)
 2. [Group Anagrams](https://github.com/pratham87/Algorithms/blob/master/src/main/java/strings/AnagramList.java)
 3. [Search in Rotated Array](https://github.com/pratham87/Algorithms/blob/master/src/main/java/searching/SearchInSortedRotatedArray.java)
 4. Sorted Search, No Size
