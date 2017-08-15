@@ -44,3 +44,16 @@
 10. Check Subtree
 11. Random Node
 12. Paths with Sum
+
+## Ch 10. Sorting and Searching
+
+1. Sorted Merge
+2. [Group Anagrams](https://github.com/pratham87/Algorithms/blob/master/src/main/java/strings/AnagramList.java)
+3. Search in Rotated Array
+4. Sorted Search, No Size
+5. Sparse Search
+6. Missing Int
+7. Find Duplicates
+8. [Sorted Matrix Search](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/arrays/SearchKeyInRowwiseColumnwiseSortedMatrix.java)
+9. Rank from Stream
+10. Peaks and Valleys
