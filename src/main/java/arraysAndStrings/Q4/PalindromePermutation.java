@@ -18,8 +18,7 @@ import java.util.stream.Collectors;
 public class PalindromePermutation {
 
 	public static boolean isPalindromeOfPermutation(String s) {
-		s = s.toLowerCase();
-		s = s.replaceAll("\\s", "");
+		s = s.toLowerCase().replaceAll("\\s", "");
 		Map<Character, Integer> map = new HashMap<>();
 		for (int i = 0; i < s.length(); i++) {
 			map.put(s.charAt(i), map.containsKey(s.charAt(i)) ? map.get(s.charAt(i)) + 1 : 1);
