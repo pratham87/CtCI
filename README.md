@@ -33,7 +33,7 @@
 ## Ch 4. Trees and Graphs
 
 1. [Route between nodes](https://github.com/pratham87/CtCI/blob/master/src/main/java/treesAndGraphs/Q1/RouteBetweenNodes.java)
-2. [Minimal Tree](https://github.com/pratham87/CtCI/tree/master/src/main/java/treesAndGraphs/Q3)
+2. [Minimal Tree](https://github.com/pratham87/CtCI/blob/master/src/main/java/treesAndGraphs/Q2/CreateMinimalBST.java)
 3. List of Depths
 4. Check Balanced: **[[O(n<sup>2</sup>)](https://github.com/pratham87/CtCI/blob/master/src/main/java/treesAndGraphs/Q4/CheckBalanced.java)] [O(n)] : [Source](http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/)**
 5. [Validate BST](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/binaryTree/CheckBinaryTreeForBST.java)
