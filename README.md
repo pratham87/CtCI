@@ -15,7 +15,7 @@
 1. Remove duplicates: **[[HashMap](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/linkedList/RemoveDuplicateNodesUsingHashMap.java)] [[Brute force](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingTwoPointer.java)]**
 2. Return Kth to Last: **[[Window](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingTwoPointer.java)] [[Length](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/linkedList/FindnthNodeFromTheEndUsingLength.java)]**
 3. [Delete Middle Node](https://github.com/pratham87/CtCI/blob/master/src/main/java/linkedLists/Q3/DeleteNode.java)
-4. Partition
+4. [Partition](https://github.com/pratham87/Data-Structures-and-Java-Collections/blob/master/src/main/java/linkedList/Partition.java)
 5. [Sum Lists](https://github.com/pratham87/CtCI/blob/master/src/main/java/linkedLists/Q5/SumLists.java)
 6. [Palindrome](https://github.com/pratham87/CtCI/blob/master/src/main/java/linkedLists/Q6/Palindrome.java)
 7. Intersection
